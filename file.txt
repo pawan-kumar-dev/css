@@ -1,0 +1,30 @@
+1) What is CSS?
+2) How can you integrate CSS on a web page?
+3) What is Embedded Style Sheet?
+4) What is a CSS selector?
+5) What is the use of CSS Opacity?
+6) Explain universal selector.
+7) What is the use of % unit?
+8) Name the property used to specify the background color of an element.
+9) Name the property for controlling the image repetition of the background.
+10) Name the property for controlling the image position in the background.
+11) Name the property for controlling the image scroll in the background.
+12) What is the difference between class selectors and id selectors?
+13) What are the advantages of External Style Sheets?
+14) What is the difference between inline, embedded and external style sheets?
+15) What is the CSS Box model and what are its elements?
+16) What is the purpose of the z-index and how is it used?
+17) Explain the difference between visibility: hidden and display: none?
+18) What are pseudo-elements in CSS?
+19) How will you target an h2 and h3 with the same styling?
+20) What are the different units used in CSS?
+21) What will this piece of CSS code do to an element? .container { margin: 0 auto; }
+22) What is the overflow property in CSS used for?
+23) What is responsive web design?
+24) What are the various font-related attributes in CSS?
+25) How would you style an image or element to have rounded corners?
+26) What is CSS flexbox?
+27) What are the different ways to position a certain element in CSS?
+28) What effect would this piece of CSS code have? {box-sizing: border-box;}
+29) What is Media Queries?
+30) How would you target components around or within other elements?
